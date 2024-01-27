@@ -1,10 +1,10 @@
-### Hi there 👋
-## I'm pretty new to Git Hub. Still figuring it out.
+## Hi there 👋
+#### I'm pretty new to GitHub. Still figuring it out!
 I'm a 16 year old coder in RI.  
 I usually code in Python.  
 I have plans to learn/use C++, Rust, and Java.  
 
-Feedback is always appreciated!
+Feedback is always appreciated! Thank you!
 
 <!--
 **UsernameIsNotAvailableBruh/UsernameIsNotAvailableBruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
