@@ -1,10 +1,13 @@
 ## Hi there 👋
-#### I'm pretty new to GitHub. Still figuring it out!
-I'm a 16 year old coder in RI.  
-I usually code in Python.  
-I have plans to learn/use C++, Rust, and Java.  
-
+### I'm pretty new to GitHub. Still figuring it out!
+I'm a 16 year old coder in RI.\
+I usually code in Python.\
+I have plans to learn/use C++, Rust, and Java.\
+\
 Feedback is always appreciated! Thank you!
+
+#### Links
+- [Replit](https://replit.com/@AajinkyaNaik "My replit account")
 
 <!--
 **UsernameIsNotAvailableBruh/UsernameIsNotAvailableBruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
