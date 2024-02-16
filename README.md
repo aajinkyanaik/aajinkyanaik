@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm pretty new to GitHub. Still figuring it out!
+### Still figuring GitHub out!
 I'm a 16 year old coder in RI.\
 I usually code in Python.\
 I have plans to learn/use C++, Rust, and Java.\
