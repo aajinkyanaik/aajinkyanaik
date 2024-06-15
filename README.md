@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### Still figuring GitHub out!
-I'm a 16 year old coder in RI.\
+I'm a 17 year old coder in RI.\
 I usually code in Python.\
 I have plans to learn/use C++, Rust, and Java.\
 \
