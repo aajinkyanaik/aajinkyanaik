@@ -1,12 +1,12 @@
 ## Hi there 👋
-I'm a 17 year old coder in RI.\
+I'm a 17 year old coder in RI. I started coding when I was 14, in semester 1 of my freshman high school year. \
 I usually code in Python.\
 I have plans to learn/use C++, Rust, and Java. Currently, I'm learning Java in school and C++ online.\
 \
 Feedback is always appreciated! Thank you!
 
 #### Links
-- [Replit](https://replit.com/@AajinkyaNaik "My replit account")
+- [Replit](https://replit.com/@AajinkyaNaik "My replit account") (I don't use replit anymore, old stuff is there (Like a DNA to Amino Acid converter! Made while learning about proteins in my Bio class :) ))
 
 <!--
 **UsernameIsNotAvailableBruh/UsernameIsNotAvailableBruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
