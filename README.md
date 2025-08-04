@@ -9,7 +9,7 @@ Feedback is always appreciated! Thank you!
 - [Replit](https://replit.com/@AajinkyaNaik "My replit account") (I don't use replit anymore, old stuff is there (Like a DNA to Amino Acid converter! Made while learning about proteins in my Bio class :) ))
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UsernameIsNotAvailableBruh&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aajinkyanaik&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent#gh-dark-mode-only)
 <!--
 maybe one day I'll uncomment this... maybe maybe.
 ![GitHub stats](https://github-readme-stats.vercel.app/api/?username=UsernameIsNotAvailableBruh&layout=compact&hide=prs,contribs,stars,issues&theme=transparent&hide_rank=true#gh-dark-mode-only)
