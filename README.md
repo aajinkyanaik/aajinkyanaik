@@ -1,6 +1,7 @@
 ## Hi there 👋
 I'm a 18 year old coder in RI. I started coding when I was 14, in semester 1 of my freshman high school year. \
 I usually code in Python.\
+I participated in FTC (First Tech Challenge) so currently most of my repos on here are Java. 
 I have plans to learn/use C++, Rust, and Java. Currently, I'm learning Java in school and C++ online.\
 \
 Feedback is always appreciated! Thank you!
